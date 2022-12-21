@@ -1,0 +1,1263 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8198522000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User Should Navigate To Computer Page Successfully",
+        "description": "",
+        "id": "desktop-page-test;user-should-navigate-to-computer-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 848489700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 224901100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1235037600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on Computer Tab",
+            "match": {
+              "location": "DesktopSteps.iClickOnComputerTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 102738900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I should navigate to computer page successfully",
+            "match": {
+              "location": "DesktopSteps.iShouldNavigateToComputerPageSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@Sanity"
+          },
+          {
+            "line": 4,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3616246900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "User Should Navigate To Electronics Page Successfully",
+        "description": "",
+        "id": "desktop-page-test;user-should-navigate-to-electronics-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 850136900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 132000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1226232400,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I click on Electronic page",
+            "match": {
+              "location": "DesktopSteps.iClickOnElectronicPage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 70007500,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I should navigate to Electronic page successfully",
+            "match": {
+              "location": "DesktopSteps.iShouldNavigateToElectronicPageSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 10,
+            "name": "@Sanity"
+          },
+          {
+            "line": 10,
+            "name": "@Smoke"
+          },
+          {
+            "line": 10,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2927658800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "User Should Navigate To Apparel Page Successfull",
+        "description": "",
+        "id": "desktop-page-test;user-should-navigate-to-apparel-page-successfull",
+        "after": [
+          {
+            "result": {
+              "duration": 825925200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 48500,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1132593200,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I click on Apparel page",
+            "match": {
+              "location": "DesktopSteps.iClickOnApparelPage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 78879100,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I should navigate to Apparel page successfully",
+            "match": {
+              "location": "DesktopSteps.iShouldNavigateToApparelPageSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 16,
+            "name": "@Smoke"
+          },
+          {
+            "line": 16,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2715044200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 23,
+        "name": "User Should Navigate To Digital Downloads Page Successfull",
+        "description": "",
+        "id": "desktop-page-test;user-should-navigate-to-digital-downloads-page-successfull",
+        "after": [
+          {
+            "result": {
+              "duration": 754082500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 116300,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1209228900,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I click on Digital Downloads Page",
+            "match": {
+              "location": "DesktopSteps.iClickOnDigitalDownloadsPage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 57667800,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "I should navigate to Digital download page successfully",
+            "match": {
+              "location": "DesktopSteps.iShouldNavigateToDigitalDownloadPageSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 22,
+            "name": "@Smoke"
+          },
+          {
+            "line": 22,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2236952000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 29,
+        "name": "User Should Navigate To Books Page Successfully",
+        "description": "",
+        "id": "desktop-page-test;user-should-navigate-to-books-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 794508300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 98000,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1081807700,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "I click on Books Page",
+            "match": {
+              "location": "DesktopSteps.iClickOnBooksPage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 49104500,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "I should navigate to Books page successfully",
+            "match": {
+              "location": "DesktopSteps.iShouldNavigateToBooksPageSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 28,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2422608600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 35,
+        "name": "User Should Navigate To Jewelry Page Successfully",
+        "description": "",
+        "id": "desktop-page-test;user-should-navigate-to-jewelry-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 816960100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 39800,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1503312000,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "I click on Jewelry page",
+            "match": {
+              "location": "DesktopSteps.iClickOnJewelryPage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 66987100,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "I should navigate to Jewelry page successfully",
+            "match": {
+              "location": "DesktopSteps.iShouldNavigateToJewelryPageSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 34,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2317767000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 41,
+        "name": "User Should Navigate To Gift Cards Page Successfull",
+        "description": "",
+        "id": "desktop-page-test;user-should-navigate-to-gift-cards-page-successfull",
+        "after": [
+          {
+            "result": {
+              "duration": 808151300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 45000,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1040320700,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "I click on Gifts cards",
+            "match": {
+              "location": "DesktopSteps.iClickOnGiftsCards()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 67424200,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "I should navigate to Gift Cards successfully",
+            "match": {
+              "location": "DesktopSteps.iShouldNavigateToGiftCardsSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 40,
+            "name": "@Regression"
+          }
+        ]
+      }
+    ],
+    "name": "Desktop Page test",
+    "description": "As user i want to navigate to different tab on home page",
+    "id": "desktop-page-test",
+    "keyword": "Feature",
+    "uri": "DeskTopPage.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2403184300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User should navigate to login page successfully",
+        "description": "",
+        "id": "login-test;user-should-navigate-to-login-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 756417200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 44700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 615048000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on login link",
+            "match": {
+              "location": "HomeSteps.iClickOnLoginLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 62253900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I should navigate to login page successfully",
+            "match": {
+              "location": "HomeSteps.iShouldNavigateToLoginPageSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@Sanity"
+          },
+          {
+            "line": 4,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2169958400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "User should login successfully with valid credentials",
+        "description": "",
+        "id": "login-test;user-should-login-successfully-with-valid-credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 781205500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 110200,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1026244100,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I click on login link",
+            "match": {
+              "location": "HomeSteps.iClickOnLoginLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 201900900,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I enter email \"london1@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "london1@gmail.com",
+                  "offset": 15
+                }
+              ],
+              "location": "HomeSteps.iEnterEmail(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 115537700,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I enter password \"london1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "london1",
+                  "offset": 18
+                }
+              ],
+              "location": "HomeSteps.iEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 416175500,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I click on login button",
+            "match": {
+              "location": "HomeSteps.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 98100,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I should login successfully",
+            "match": {
+              "location": "HomeSteps.iShouldLoginSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 10,
+            "name": "@Smoke"
+          },
+          {
+            "line": 10,
+            "name": "@Sanity"
+          },
+          {
+            "line": 10,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2476391000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 29,
+        "name": "Verify the error message with invalid credentials",
+        "description": "",
+        "id": "login-test;verify-the-error-message-with-invalid-credentials;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 798112900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 61900,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 614518400,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I click on login link",
+            "match": {
+              "location": "HomeSteps.iClickOnLoginLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 284767100,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I enter email \"london007@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "london007@gmail.com",
+                  "offset": 15
+                }
+              ],
+              "location": "HomeSteps.iEnterEmail(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 159595500,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I enter password \"london007\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "london007",
+                  "offset": 18
+                }
+              ],
+              "location": "HomeSteps.iEnterPassword(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 408756800,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I click on login button",
+            "match": {
+              "location": "HomeSteps.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 55900200,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "I should see the error message \"Login was unsuccessful. Please correct the errors and try again.\nNo customer account found\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Login was unsuccessful. Please correct the errors and try again.\nNo customer account found",
+                  "offset": 32
+                }
+              ],
+              "location": "HomeSteps.iShouldSeeTheErrorMessage(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 19,
+            "name": "@Regression"
+          }
+        ]
+      }
+    ],
+    "name": "Login Test",
+    "description": "As user I want to login into nop commerce website",
+    "id": "login-test",
+    "keyword": "Feature",
+    "uri": "login.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2435425500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should Navigate To Register Page Successfully",
+        "description": "",
+        "id": "register;user-should-navigate-to-register-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 820616400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 25300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 566217500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on register link",
+            "match": {
+              "location": "LoginSteps.register()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 65356700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should navigate Register page successfully",
+            "match": {
+              "location": "RegisterSteps.iShouldNavigateRegisterPageSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@Sanity"
+          },
+          {
+            "line": 3,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2406027600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "User Should Register Account Successfully",
+        "description": "",
+        "id": "register;user-should-register-account-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 849238800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 45200,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 713795800,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I click on register link",
+            "match": {
+              "location": "LoginSteps.register()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 117239600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I click on gender tab",
+            "match": {
+              "location": "RegisterSteps.iClickOnGenderTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 137117000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I enter first name \"London\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "London",
+                  "offset": 20
+                }
+              ],
+              "location": "RegisterSteps.iEnterFirstName(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 100009800,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I enter last name \"King\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "King",
+                  "offset": 19
+                }
+              ],
+              "location": "RegisterSteps.iEnterLastName(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 99601400,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "i enter dat of birth \"1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 22
+                }
+              ],
+              "location": "RegisterSteps.iEnterDatOfBirth(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 98989900,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "i enter month of birth \"January\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "January",
+                  "offset": 24
+                }
+              ],
+              "location": "RegisterSteps.iEnterMonthOfBirth(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 92617400,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "i enter year of birth \"2000\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2000",
+                  "offset": 23
+                }
+              ],
+              "location": "RegisterSteps.iEnterYearOfBirth(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 171260900,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "i enter email id \"london\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "london",
+                  "offset": 18
+                }
+              ],
+              "location": "RegisterSteps.iEnterEmailId(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 112231400,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "i enter company name \"Prime\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Prime",
+                  "offset": 22
+                }
+              ],
+              "location": "RegisterSteps.iEnterCompanyName(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 188576900,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "i enter password \"london1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "london1",
+                  "offset": 18
+                }
+              ],
+              "location": "RegisterSteps.iEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 121590900,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "i re enter password \"london1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "london1",
+                  "offset": 21
+                }
+              ],
+              "location": "RegisterSteps.iReEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 172745900,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "i click on set register button",
+            "match": {
+              "location": "RegisterSteps.iClickOnSetRegisterButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 154684600,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "Your registration completed\", \"Your registration completed",
+            "match": {
+              "arguments": [
+                {
+                  "val": ", ",
+                  "offset": 28
+                }
+              ],
+              "location": "RegisterSteps.yourRegistrationCompletedYourRegistrationCompleted(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 9,
+            "name": "@Smoke"
+          },
+          {
+            "line": 9,
+            "name": "@Regression"
+          }
+        ]
+      }
+    ],
+    "name": "Register",
+    "description": "",
+    "id": "register",
+    "keyword": "Feature",
+    "uri": "register.feature"
+  }
+]

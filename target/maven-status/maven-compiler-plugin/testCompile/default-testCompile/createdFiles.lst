@@ -1,0 +1,6 @@
+com\nopcommerce\demo\cucumber\Hooks.class
+com\nopcommerce\demo\cucumber\runner\TestRunner.class
+com\nopcommerce\demo\cucumber\runner\TestRunnerSanity.class
+com\nopcommerce\demo\cucumber\steps\RegisterSteps.class
+com\nopcommerce\demo\cucumber\runner\RegistrationRunner.class
+com\nopcommerce\demo\cucumber\steps\LoginSteps.class
